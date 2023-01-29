@@ -8,7 +8,7 @@ This repository showcases my personal Java programming projects and code snippet
     <h1>Welcome to my Java Repository</h1>
     <p>This repository contains various Java projects and applications that I have created and worked on.
     <p>Feel free to explore the projects and leave feedback. I am always looking to improve and learn.
-    <h2>Projects:</h2>
+   
    
   </body>
 </html>
